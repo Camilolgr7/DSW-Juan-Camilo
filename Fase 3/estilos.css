@@ -44,3 +44,8 @@ header {
     background-color:#181D31;
     color: beige;
  }
+
+ p{
+     text-align:center;
+     padding: 15px 20px;
+ }
